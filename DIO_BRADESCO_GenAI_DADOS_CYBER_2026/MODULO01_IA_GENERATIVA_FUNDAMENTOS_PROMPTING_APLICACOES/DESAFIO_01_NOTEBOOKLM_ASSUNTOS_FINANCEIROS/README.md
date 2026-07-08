@@ -10,12 +10,12 @@ Este NotebookLM tem como objetivo reunir e organizar os principais conceitos int
 
 2.FONTES UTILIZADAS PARA ESSE NOTEBOOK
 
-[1] APIMEC Brasil. Análise de Investimentos. Rio de Janeiro: CVM, 2025.
-[2] Comissão de Valores Mobiliários (CVM). Planejamento Financeiro Pessoal. Rio de Janeiro: CVM, 2019.
-[3] Departamento de Promoção da Cidadania Financeira (DEPEF). Caderno de Educação Financeira: conteúdo básico. 2. ed. Brasília: Banco Central do Brasil, 2026.
-[4] MOREIRA, V.; FREITAS, B. A matemática dos investimentos financeiros no ensino médio. Rio de Janeiro: SBM, 2024.
-[5] PUCCINI, E. C. Matemática Financeira e Análise de Investimentos. CAPES: UAB, 2011.
-[6] SILVA, C. T. C. Finanças Pessoais para Iniciantes. Maceió: Edufal, 2019.
+- APIMEC Brasil. Análise de Investimentos. Rio de Janeiro: CVM, 2025.
+- Comissão de Valores Mobiliários (CVM). Planejamento Financeiro Pessoal. Rio de Janeiro: CVM, 2019.
+- Departamento de Promoção da Cidadania Financeira (DEPEF). Caderno de Educação Financeira: conteúdo básico. 2. ed. Brasília: Banco Central do Brasil, 2026.
+- MOREIRA, V.; FREITAS, B. A matemática dos investimentos financeiros no ensino médio. Rio de Janeiro: SBM, 2024.
+- PUCCINI, E. C. Matemática Financeira e Análise de Investimentos. CAPES: UAB, 2011.
+- SILVA, C. T. C. Finanças Pessoais para Iniciantes. Maceió: Edufal, 2019.
 
 3. ENGENHARIA DE PROMPTS (5 PROMPTS UTILIZADOS PARA INICIAR OS ESTUDOS EM ANÁLISE INVSTIMENTOS E MATEMÁTICA FINANCEIRA)
 
