@@ -22,7 +22,7 @@ REFERÊNCIAS:
 [5] https://www.oracle.com/br/developer/what-is-python-for-developers/#popular
 [6] https://python.org.br/
 
-2.FONTES UTILIZADAS PARA ESSE NOTEBOOK
+2. FONTES UTILIZADAS PARA ESSE NOTEBOOK
 
 GASPAR, J. S. [et al.]. Introdução à análise de dados em saúde com Python. Belo Horizonte, MG: Universidade Federal de Minas Gerais, 2023.
 GRUS, J. Data Science do Zero. Rio de Janeiro : Alta Books, 2016.
@@ -33,16 +33,16 @@ XAVIER, O. C. Python Para Processamento de Dados. Goiânia, GO: Cegrafe UFG, 202
 
 3. ENGENHARIA DE PROMPTS (5 PROMPTS UTILIZADOS PARA INICIAR OS ESTUDOS EM ANÁLISE DE DADOS)
 
-1º Prompt – Introdução à Análise de Dados:
+- 1º Prompt – Introdução à Análise de Dados:
 Atue como um professor de Análise de Dados para iniciantes. Explique o que é Análise de Dados, qual é seu objetivo e por que ela é importante atualmente. Apresente exemplos práticos de empresas e setores que utilizam Análise de Dados para tomar decisões e explique como essa área impacta diferentes profissões.
 
-2º Prompt – Análise de Dados, Ciência de Dados e Python:
+- 2º Prompt – Análise de Dados, Ciência de Dados e Python:
 Explique a diferença entre Análise de Dados, Ciência de Dados, Engenharia de Dados e Business Intelligence (BI). Em seguida, explique por que a linguagem Python se tornou uma das principais ferramentas para análise de dados. Cite as bibliotecas mais utilizadas (Pandas, NumPy, Matplotlib, Seaborn e Scikit-learn) e explique, de forma simples, para que serve cada uma.
 
-3º Prompt – Como iniciar um projeto de Análise de Dados:
+- 3º Prompt – Como iniciar um projeto de Análise de Dados:
 Imagine que estou desenvolvendo meu primeiro projeto de Análise de Dados. Explique, passo a passo, como um analista inicia um projeto. Mostre a importância de compreender o problema de negócio, formular perguntas relevantes, identificar quem é o cliente ou usuário final, definir os objetivos da análise e estabelecer quais resultados serão considerados um sucesso.
 
-4º Prompt – Estrutura completa de um projeto:
+- 4º Prompt – Estrutura completa de um projeto:
 Explique como é estruturado um projeto de Análise de Dados do início ao fim. Descreva cada etapa do processo, incluindo:
 - entendimento do problema;
 - coleta dos dados;
@@ -55,7 +55,7 @@ Explique como é estruturado um projeto de Análise de Dados do início ao fim. 
 - comunicação dos insights.
 Para cada etapa, explique o objetivo, as principais ferramentas utilizadas e os erros mais comuns cometidos por iniciantes.
 
-5º Prompt – Entrega do projeto:
+- 5º Prompt – Entrega do projeto:
 Após concluir um projeto de Análise de Dados, como os resultados devem ser apresentados? Explique quais são os formatos mais comuns de entrega (relatórios, dashboards, apresentações, notebooks e APIs), quando utilizar cada um deles e como adaptar a comunicação para diferentes públicos, como gestores, clientes e equipes técnicas.
 
 4. GLOSSÁRIO
