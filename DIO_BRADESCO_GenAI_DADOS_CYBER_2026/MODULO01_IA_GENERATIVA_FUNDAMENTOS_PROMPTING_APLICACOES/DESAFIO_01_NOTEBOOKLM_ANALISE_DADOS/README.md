@@ -1,4 +1,4 @@
-LINK NOTEBOOKLM "Data Analysis Para Iniciantes"
+"Data Analysis Para Iniciantes"
 
 https://notebooklm.google.com/notebook/e5846c9d-42d5-4c92-b2b8-8d37ae971836
 
@@ -15,12 +15,12 @@ Python é uma linguagem de programação de alto nível, orientada a objetos, de
 O NotebookLM foi escolhido por permitir organizar conteúdos, reunir referências bibliográficas, sintetizar informações e interagir com documentos por meio de inteligência artificial. Dessa forma, o ambiente torna-se um recurso eficiente para apoiar o aprendizado contínuo em análise de dados e programação em Python.
 
 REFERÊNCIAS:
--[1] https://revistaes.com.br/artigos/as-habilidades-em-analise-de-dados-mais-requisitadas-no-mercado-de-trabalho
--[2] https://www.preditiva.ai/blog/analise-de-dados-uma-visao-geral-na-atualidade
--[3] https://blog.dsacademy.com.br/analista-de-dados-por-onde-comecar-em-5_passos/
--[4] https://somostera.com/blog/analista-de-dados-guia-completo-da-profissao-2026
--[5] https://www.oracle.com/br/developer/what-is-python-for-developers/#popular
--[6] https://python.org.br/
+[1] https://revistaes.com.br/artigos/as-habilidades-em-analise-de-dados-mais-requisitadas-no-mercado-de-trabalho
+[2] https://www.preditiva.ai/blog/analise-de-dados-uma-visao-geral-na-atualidade
+[3] https://blog.dsacademy.com.br/analista-de-dados-por-onde-comecar-em-5_passos/
+[4] https://somostera.com/blog/analista-de-dados-guia-completo-da-profissao-2026
+[5] https://www.oracle.com/br/developer/what-is-python-for-developers/#popular
+[6] https://python.org.br/
 
 2.FONTES UTILIZADAS PARA ESSE NOTEBOOK
 
