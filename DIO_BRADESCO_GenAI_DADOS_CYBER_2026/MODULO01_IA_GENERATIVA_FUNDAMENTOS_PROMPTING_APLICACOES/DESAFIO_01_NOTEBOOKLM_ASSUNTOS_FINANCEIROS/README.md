@@ -8,7 +8,7 @@ A Matemática Financeira é uma ferramenta fundamental para compreender o valor 
 
 Este NotebookLM tem como objetivo reunir e organizar os principais conceitos introdutórios de Matemática Financeira e Análise de Investimentos, oferecendo um material de consulta claro, prático e de fácil compreensão. A proposta é apoiar o processo de aprendizagem, relacionando os fundamentos teóricos às suas aplicações no contexto financeiro.
 
-2.FONTES UTILIZADAS PARA ESSE NOTEBOOK
+2. FONTES UTILIZADAS PARA ESSE NOTEBOOK
 
 - APIMEC Brasil. Análise de Investimentos. Rio de Janeiro: CVM, 2025.
 - Comissão de Valores Mobiliários (CVM). Planejamento Financeiro Pessoal. Rio de Janeiro: CVM, 2019.
