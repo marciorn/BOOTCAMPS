@@ -15,6 +15,7 @@ Python é uma linguagem de programação de alto nível, orientada a objetos, de
 O NotebookLM foi escolhido por permitir organizar conteúdos, reunir referências bibliográficas, sintetizar informações e interagir com documentos por meio de inteligência artificial. Dessa forma, o ambiente torna-se um recurso eficiente para apoiar o aprendizado contínuo em análise de dados e programação em Python.
 
 REFERÊNCIAS:
+
 [1] https://revistaes.com.br/artigos/as-habilidades-em-analise-de-dados-mais-requisitadas-no-mercado-de-trabalho
 
 [2] https://www.preditiva.ai/blog/analise-de-dados-uma-visao-geral-na-atualidade
