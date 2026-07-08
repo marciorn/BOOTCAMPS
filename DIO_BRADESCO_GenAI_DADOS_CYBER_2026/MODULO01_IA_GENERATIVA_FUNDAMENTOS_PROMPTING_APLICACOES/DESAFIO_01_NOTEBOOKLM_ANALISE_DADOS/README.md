@@ -16,20 +16,25 @@ O NotebookLM foi escolhido por permitir organizar conteúdos, reunir referência
 
 REFERÊNCIAS:
 [1] https://revistaes.com.br/artigos/as-habilidades-em-analise-de-dados-mais-requisitadas-no-mercado-de-trabalho
+
 [2] https://www.preditiva.ai/blog/analise-de-dados-uma-visao-geral-na-atualidade
+
 [3] https://blog.dsacademy.com.br/analista-de-dados-por-onde-comecar-em-5_passos/
+
 [4] https://somostera.com/blog/analista-de-dados-guia-completo-da-profissao-2026
+
 [5] https://www.oracle.com/br/developer/what-is-python-for-developers/#popular
+
 [6] https://python.org.br/
 
 2. FONTES UTILIZADAS PARA ESSE NOTEBOOK
 
-GASPAR, J. S. [et al.]. Introdução à análise de dados em saúde com Python. Belo Horizonte, MG: Universidade Federal de Minas Gerais, 2023.
-GRUS, J. Data Science do Zero. Rio de Janeiro : Alta Books, 2016.
-KNAFLIC, C. N. Storytelling com dados: um guia sobre visualização de dados para profissionais de negócios. Rio de Janeiro : Alta Books, 2018.
-McKINNEY, W. Python for Data Analysis. Sebastopol, CA: O’Reilly Media, Inc. 2013.
-PIERSON, L. Data Science Para Leigos. Rio de Janeiro : Alta Books, 2019.
-XAVIER, O. C. Python Para Processamento de Dados. Goiânia, GO: Cegrafe UFG, 2024.
+- GASPAR, J. S. [et al.]. Introdução à análise de dados em saúde com Python. Belo Horizonte, MG: Universidade Federal de Minas Gerais, 2023.
+- GRUS, J. Data Science do Zero. Rio de Janeiro : Alta Books, 2016.
+- KNAFLIC, C. N. Storytelling com dados: um guia sobre visualização de dados para profissionais de negócios. Rio de Janeiro : Alta Books, 2018.
+- McKINNEY, W. Python for Data Analysis. Sebastopol, CA: O’Reilly Media, Inc. 2013.
+- PIERSON, L. Data Science Para Leigos. Rio de Janeiro : Alta Books, 2019.
+- XAVIER, O. C. Python Para Processamento de Dados. Goiânia, GO: Cegrafe UFG, 2024.
 
 3. ENGENHARIA DE PROMPTS (5 PROMPTS UTILIZADOS PARA INICIAR OS ESTUDOS EM ANÁLISE DE DADOS)
 
