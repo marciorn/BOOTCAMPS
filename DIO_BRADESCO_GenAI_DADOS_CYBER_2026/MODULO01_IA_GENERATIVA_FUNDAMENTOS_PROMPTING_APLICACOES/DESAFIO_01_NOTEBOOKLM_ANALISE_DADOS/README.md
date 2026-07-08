@@ -44,15 +44,15 @@ Imagine que estou desenvolvendo meu primeiro projeto de Análise de Dados. Expli
 
 - 4º Prompt – Estrutura completa de um projeto:
 Explique como é estruturado um projeto de Análise de Dados do início ao fim. Descreva cada etapa do processo, incluindo:
-- entendimento do problema;
-- coleta dos dados;
-- exploração dos dados;
-- limpeza dos dados;
-- transformação dos dados;
-- análise exploratória;
-- visualização dos dados;
-- interpretação dos resultados;
-- comunicação dos insights.
+  - entendimento do problema;
+  - coleta dos dados;
+  - exploração dos dados;
+  - limpeza dos dados;
+  - transformação dos dados;
+  - análise exploratória;
+  - visualização dos dados;
+  - interpretação dos resultados;
+  - comunicação dos insights.
 Para cada etapa, explique o objetivo, as principais ferramentas utilizadas e os erros mais comuns cometidos por iniciantes.
 
 - 5º Prompt – Entrega do projeto:
