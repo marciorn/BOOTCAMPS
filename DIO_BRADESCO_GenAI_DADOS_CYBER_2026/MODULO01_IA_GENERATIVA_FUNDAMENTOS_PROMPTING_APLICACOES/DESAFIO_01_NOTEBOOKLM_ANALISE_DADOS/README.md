@@ -1,4 +1,4 @@
-"Data Analysis Para Iniciantes"
+"DATA ANALYSIS PARA INICIANTES"
 
 https://notebooklm.google.com/notebook/e5846c9d-42d5-4c92-b2b8-8d37ae971836
 
