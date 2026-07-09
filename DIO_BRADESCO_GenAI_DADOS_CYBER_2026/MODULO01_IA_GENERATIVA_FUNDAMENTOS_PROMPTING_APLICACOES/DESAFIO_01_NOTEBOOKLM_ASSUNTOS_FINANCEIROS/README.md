@@ -12,7 +12,13 @@ https://notebooklm.google.com/notebook/0367f32d-6939-401e-a2c1-9c6a71a82699
 
 A Matemática Financeira é uma ferramenta fundamental para compreender o valor do dinheiro ao longo do tempo e apoiar a tomada de decisões em situações como investimentos, financiamentos e planejamento financeiro. Além disso, o estudo dos instrumentos financeiros permite conhecer as principais alternativas disponíveis no mercado, bem como suas características, riscos e possibilidades de retorno.
 
+
+
 Este NotebookLM tem como objetivo reunir e organizar os principais conceitos introdutórios de Matemática Financeira e Análise de Investimentos, oferecendo um material de consulta claro, prático e de fácil compreensão. A proposta é apoiar o processo de aprendizagem, relacionando os fundamentos teóricos às suas aplicações no contexto financeiro.
+
+
+
+Finalizando, este repositório contém os arquivos organizados e estruturados de acordo com as especificações da atividade.
 
 
 
@@ -66,6 +72,7 @@ Elabore um plano de estudos para quem está começando do zero em Matemática Fi
 PROMPT - Criando um Glossário: Atue como um professor de Análise de Investimentos e Matemática Financeira. Crie um glossário completo para iniciantes nesta área, organizado por níveis de aprendizado. Para cada conceito, inclua definição, importância, exemplo de aplicação, termos relacionados e sugestões do que estudar em seguida. Utilize linguagem acessível e exemplos do mundo real.
 
 5. MINIGUIA DE ESTUDOS
+
 
 
 PROMPT - Criando um Miniguia: Desenvolva um miniguia de estudos para um aluno iniciante de tal forma que ele use como referência para organizar sua jornada de aprendizado.
