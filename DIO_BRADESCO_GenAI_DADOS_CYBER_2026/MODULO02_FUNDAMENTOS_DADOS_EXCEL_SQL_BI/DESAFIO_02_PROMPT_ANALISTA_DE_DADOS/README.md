@@ -9,14 +9,15 @@ CONTEXTO: Os feedbacks estão relacionados ao uso do aplicativo bancário, servi
 DADOS DISPONÍVEIS: Data, Canal de atendimento, Texto do feedback, Produto citado, Nota de satisfação (escala de 1 a 5).
 
 INSTRUÇÕES DE ANÁLISE:
-1.	Classifique os feedbacks por tema principal, sentimento (positivo, negativo ou neutro), grau de urgência, canal de atendimento, produto mencionado e localidade (cidade e estado).
-2.	Identifique os principais padrões, problemas, elogios e oportunidades.
-3.	Aponte evidências nos dados fornecidos.
-4.	Sugira ações práticas, priorizadas por impacto e esforço, para as equipes de dados, atendimento e marketing e relacione os achados com métricas de negócio (ex.: NPS, tempo médio de resposta, taxa de resolução).
 
-FORMATO DE ENTREGA: 
+1. Classifique os feedbacks por tema principal, sentimento (positivo, negativo ou neutro), grau de urgência, canal de atendimento, produto mencionado e localidade (cidade e estado).
+2. Identifique os principais padrões, problemas, elogios e oportunidades.
+3. Aponte evidências nos dados fornecidos.
+4. Sugira ações práticas, priorizadas por impacto e esforço, para as equipes de dados, atendimento e marketing e relacione os achados com métricas de negócio (ex.: NPS, tempo médio de resposta, taxa de resolução).
 
-•	Resumo executivo com os 3–5 principais insights estratégicos.
+FORMATO DE ENTREGA:
+
+•	Resumo executivo com os 3 principais insights estratégicos.
 
 •	Tabela detalhada destacando: tema, exemplos de comentários, padrões identificados e recomendações associadas.
 
@@ -32,4 +33,5 @@ CUIDADOS E RESTRIÇÕES:
 
 •	Se houver informação insuficiente, indique a limitação.
 
-•	Use linguagem [simples, executiva, técnica ou outro estilo].
+•	Use linguagem \[simples, executiva, técnica ou outro estilo].
+
