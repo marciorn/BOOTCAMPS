@@ -15,8 +15,11 @@ Instruções de análise:
 4.	Sugira ações práticas, priorizadas por impacto e esforço, para as equipes de dados, atendimento e marketing e relacione os achados com métricas de negócio (ex.: NPS, tempo médio de resposta, taxa de resolução).
 
 Formato de entrega: 
+
 •	Resumo executivo com os 3–5 principais insights estratégicos.
+
 •	Tabela detalhada destacando: tema, exemplos de comentários, padrões identificados e recomendações associadas.
+
 •	Indicação de limitações dos dados quando aplicável.
 
 Cuidados e restrições:
