@@ -23,8 +23,13 @@ Formato de entrega:
 •	Indicação de limitações dos dados quando aplicável.
 
 Cuidados e restrições:
+
 •	Use apenas os dados fornecidos.
+
 •	Não invente números, causas ou conclusões.
+
 •	Não exponha dados pessoais ou sensíveis.
+
 •	Se houver informação insuficiente, indique a limitação.
+
 •	Use linguagem [simples, executiva, técnica ou outro estilo].
