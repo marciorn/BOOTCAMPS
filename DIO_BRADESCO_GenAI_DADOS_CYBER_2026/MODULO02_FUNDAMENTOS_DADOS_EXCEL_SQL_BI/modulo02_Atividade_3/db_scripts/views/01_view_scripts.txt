@@ -1,0 +1,25 @@
+RODANDO AS VIEWS CRIADAS - USANDO O SEGUINTE COMANDO COM O NOME DA VIEW CRIADA:
+
+SELECT * FROM vw_cards_detalhado;
+
+OUTRA OPÇÃO MAIS RECOMENDÁVEL:
+
+SELECT 
+    id,
+    hp,
+    name,
+    info,
+    attack,
+    damage,
+    weak,
+    ressis,
+    retreat,
+    cardNumberInCollection,
+    collectionSetName,
+    releaseDate,
+    totalCardsInCollection,
+    typeName,
+    stageName
+FROM vw_cards_detalhado;
+
+

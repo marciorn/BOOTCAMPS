@@ -1,0 +1,106 @@
+1º PROMPT
+[ação]
+create a table to create a table in postgresql
+
+[contexto]
+- the first table is a table to save a pokemon tcg cards
+- the second table is a table to save collections set
+- the third table is a table to save card types
+- the fourth table is a table to save card stages
+
+
+connect the four tables with foreign key
+
+[informações]
+the first table: tbl_cards
+- id
+- hp
+- name
+- type
+- stage
+- info
+- attack
+- damage
+- weak
+- ressis.
+- retreat
+- cardNumerberInCollection
+
+the second table: tbl_collections
+- id
+- collectionSteName
+- release Date
+- totalcardsInCollection
+
+the third table: tbl_types
+- id
+- typeName
+
+the fourth table: tbl_stages
+- id
+- stageName
+
+
+2º PROMPT
+
+generate a initial seed script with initial inserts (collections, types, stages, and cards)
+
+3º PROMPT
+generate 20 inserts records to table tbl_cards
+
+4º PROMPT
+generate more 30 inserts records to table tbl_cards
+
+5º PROMPT
+again, generate more new 30 inserts records to table tbl_cards
+
+
+6º PROMPT:
+
+Considere o modelo relacional abaixo:
+
+-- Table for card collections
+CREATE TABLE tbl_collections (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    collectionSetName TEXT NOT NULL,
+    releaseDate DATE NOT NULL,
+    totalCardsInCollection INT NOT NULL
+);
+
+-- Table for card types
+CREATE TABLE tbl_types (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    typeName TEXT NOT NULL
+);
+
+-- Table for card stages
+CREATE TABLE tbl_stages (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    stageName TEXT NOT NULL
+);
+
+-- Updated cards table with foreign keys
+CREATE TABLE tbl_cards (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    hp INT,
+    name TEXT NOT NULL,
+    info TEXT,
+    attack TEXT,
+    damage TEXT,
+    weak TEXT,
+    ressis TEXT,
+    retreat TEXT,
+    cardNumberInCollection INT NOT NULL,
+    collection_id INT NOT NULL,
+    type_id INT NOT NULL,
+    stage_id INT NOT NULL,
+    FOREIGN KEY (collection_id) REFERENCES tbl_collections(id),
+    FOREIGN KEY (type_id) REFERENCES tbl_types(id),
+    FOREIGN KEY (stage_id) REFERENCES tbl_stages(id)
+);
+
+Traga todas as informações da tbl_cards substituindo pelos nomes das chaves estrangeiras
+Salve isso em uma view para o SQLiteStudio
+
+7º PROMPT
+Dado o view SELECT * FROM vw_cards_detalhado; faça um Select, mas não faça um Select *, faça chamando campo por campo

@@ -1,0 +1,7 @@
+PARA GERAR/EXECUTAR O ARQUIVO MIGRATION NO POWERSHELL:
+
+ - 1º COMANDO:
+ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+- 2º COMANDO (Usando & + "Caminho do arquivo":
+& "C:\Users\Dell\Documents\DIO_BRADESCO_GenAI_DADOS_CYBER_2026\MODULO02_FUNDAMENTOS_DADOS_EXCEL_SQL_BI\modulo02_Atividade_4\db_scripts\seeds\to_migration.ps1"
