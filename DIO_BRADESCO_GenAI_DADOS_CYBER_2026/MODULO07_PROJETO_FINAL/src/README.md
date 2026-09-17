@@ -9,10 +9,10 @@ Esta pasta contém o código do seu agente financeiro.
  ├──📄 app.py                     # Aplicação principal (Para rodar no terminal)
  ├──📓 app.ipynb                  # Aplicação Notebook (Para rodar no Jupyter Notebook)
  └──📁 data/                      # Dados mockados para o agente
-      ├── historico_atendimento.csv # Histórico de atendimentos (CSV)
-      ├── perfil_investidor.json    # Perfil do cliente (JSON)
-      ├── produtos_financeiros.json # Produtos disponíveis (JSON)
-      └── transacoes.csv            # Histórico de transações (CSV)
+    ├── historico_atendimento.csv # Histórico de atendimentos (CSV)
+    ├── perfil_investidor.json    # Perfil do cliente (JSON)
+    ├── produtos_financeiros.json # Produtos disponíveis (JSON)
+    └── transacoes.csv            # Histórico de transações (CSV)
 ```
 
 ## Como Rodar
