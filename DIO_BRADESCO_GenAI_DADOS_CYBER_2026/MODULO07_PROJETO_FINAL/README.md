@@ -1,17 +1,34 @@
-# 🤖 Agente Financeiro Inteligente com IA Generativa
+# 🤖 Beta — Educadora Financeira (GenAI & Agente Educacional)
 
-## Contexto do Desafio
-
-Os assistentes virtuais no setor financeiro estão evoluindo de simples chatbots reativos para **agentes inteligentes e proativos**. Neste desafio, foi idealizado e prototipado um agente financeiro que utiliza IA Generativa para:
-
-- **Antecipar necessidades** ao invés de apenas responder perguntas
-- **Personalizar** sugestões com base no contexto de cada cliente
-- **Cocriar soluções** financeiras de forma consultiva
-- **Garantir segurança** e confiabilidade nas respostas (anti-alucinação)
+Uma solução baseada em **IA Generativa** projetada para atuar como uma educadora financeira inteligente e interativa. A **Beta** descomplica a educação financeira ao explicar conceitos complexos de forma didática, utilizando os dados reais do próprio cliente como exemplos práticos em tempo real, sem a realização de recomendações de investimento diretas.
 
 ---
 
-## Estrutura do Repositório
+## 🎯 Objetivos e Proposta de Valor
+
+- **Educação Personalizada:** Traduz conceitos e relatórios financeiros usando o histórico/contexto do próprio usuário.
+- **Linguagem Acessível:** Transforma termos técnicos da economia/finanças em orientações claras, didáticas e interativas.
+- **Escopo Educacional Estreito:** Focada estritamente na alfabetização financeira e conscientização, evitando recomendações ou consultorias financeiras e de investimento ativas.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **LLM / GenAI:** Modelos de Linguagem para síntese didática e resposta interativa.
+- **Análise de Dados:** Processamento dos dados financeiros do usuário para contextualização de exemplos.
+- **Python / Jupyter Notebook:** Desenvolvimento, prototipagem do agente e validação do fluxo de conversação.
+
+---
+
+## 🚀 Funcionalidades Principais
+
+1. **Exemplificação Contextual:** Explicação de conceitos usando simulações baseadas nos dados do usuário.
+2. **Análise de Hábitos:** Identificação didática de padrões de gastos sem tom de julgamento.
+3. **Guia de Conscientização:** Orientações sobre planejamento orçamentário e educação financeira básica.
+
+---
+
+## Estrutura do Projeto
 
 ```
 📁 MODULO07_PROJETO_FINAL (Agente Financeiro)
