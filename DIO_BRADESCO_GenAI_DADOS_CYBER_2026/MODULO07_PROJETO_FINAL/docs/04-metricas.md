@@ -65,9 +65,13 @@ Use com os participantes do teste:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
+> Precisão e Qualidade: O agente respondeu com precisão às perguntas do cenário de teste, entregando resultados alinhados com o comportamento esperado.
+
+> Execução Local: A arquitetura local mostrou-se viável para o processamento do modelo, garantindo o funcionamento do agente sem dependências externas de API.
 
 **O que pode melhorar:**
-- [Liste aqui]
+> Tempo de Resposta (Latência): Devido a limitações de hardware local, a geração de respostas apresentou um tempo de execução elevado.
+
+> Infraestrutura para Escala: Para futuras iterações ou casos de uso mais complexos, recomenda-se o upgrade de hardware (ex.: GPU dedicada) ou a migração para infraestrutura em nuvem/APIs para otimizar o desempenho.
 
 ---
