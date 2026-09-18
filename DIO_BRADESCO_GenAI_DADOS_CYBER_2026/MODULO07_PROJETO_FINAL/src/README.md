@@ -1,14 +1,17 @@
 # Passo a Passo de Execução
 
-## Setup do Ollama
+## Instalação
 
+**1. Instale as dependências:**
 ```bash
-# 1. Instalar Ollama (ollama.com)
-# 2. Baixar um modelo leve (No CMD)
-ollama pull gpt-oss
+pip install streamlit pandas requests
+```
 
-# 3. Testar se funciona (No CMD)
-ollama run gpt-oss "Olá!"
+**2. Instale e configure o Ollama** (execução local do LLM):
+```bash
+# Baixe o Ollama em https://ollama.com
+ollama pull gpt-oss
+ollama run gpt-oss "Olá!"   # teste rápido
 ```
 
 ## Código Completo
